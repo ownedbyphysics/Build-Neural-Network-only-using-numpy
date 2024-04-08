@@ -1,1 +1,2 @@
 Understanding the fundamentals: Implementing a neural network from scratch helps you deeply understand the underlying principles and mathematics involved in machine learning and neural networks. You'll gain insights into concepts like forward and backward propagation, activation functions, gradient descent, and more.
+![Alt Text](https://raw.githubusercontent.com/ownedbyphysics/Build-Neural-Network-only-using-numpy/main/NeuralNet_breaking_down_2.jfif)
